@@ -7,7 +7,16 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "codemirror": "^5.65.3",
     "core-js": "^3.6.5",
+    "less": "^4.1.2",
+    "less-loader": "5",
+    "raw-loader": "^4.0.2",
+    "rehype-highlight": "^5.0.2",
+    "rehype-stringify": "^9.0.3",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "unified": "^10.1.2",
     "vue": "^3.0.0"
   },
   "devDependencies": {
